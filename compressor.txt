@@ -1,0 +1,34 @@
+compressor/
+├── CMakeLists.txt
+├── main.cpp
+├── mainwindow.h
+├── mainwindow.cpp
+├── mainwindow.ui
+├── translator.h
+├── translator.cpp
+├── dialogs/
+│   ├── aboutdialog.h
+│   ├── aboutdialog.cpp
+│   ├── aboutdialog.ui
+│   ├── languagedialog.h
+│   ├── languagedialog.cpp
+│   └── languagedialog.ui
+├── resources/
+│   └── resources.qrc
+├── share/
+│   └── icons/
+│       └── logo.png              # ← Сюда вы копируете ваш файл
+├── translations/
+│   ├── compressor_ru.ts
+│   └── compressor_en.ts
+├── scripts/
+│   ├── build-linux.sh
+│   └── deploy.sh
+└── README.md
+
+
+
+Сборка
+bash scripts/build-linux.sh
+Установка
+bash scripts/deploy.sh

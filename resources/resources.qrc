@@ -1,0 +1,8 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <file alias="translations/compressor_ru.qm">../translations/compressor_ru.qm</file>
+        <file alias="translations/compressor_en.qm">../translations/compressor_en.qm</file>
+        <file alias="icons/logo.png">../share/icons/logo.png</file>
+    </qresource>
+</RCC>

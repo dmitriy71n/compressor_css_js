@@ -1,0 +1,13 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Compressor
+Version=1.0
+Exec=/opt/compressor/bin/compressor
+Comment=Tool for web developers
+Icon=/opt/compressor/share/icons/logo.png
+Type=Application
+Terminal=false
+StartupNotify=true
+Encoding=UTF-8
+Categories=Development;Qt;
+X-Desktop-File-Install-Version=0.27
