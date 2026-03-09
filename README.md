@@ -21,16 +21,13 @@ Compressor uses Qt6 libraries.
 ## Installation on Linux
 
 Debian / Ubuntu / Mint
-
-– sudo apt install libqt6widgets6
+- sudo apt install libqt6widgets6
 
 Arch Linux
-
-– sudo pacman -S qt6-base
+- sudo pacman -S qt6-base
 
 Fedora
-
-– sudo dnf install qt6-qtbase
+- sudo dnf install qt6-qtbase
 
 
 unzip compressor_2.0_linux.zip
