@@ -14,9 +14,8 @@ A multi-functional tool for minifying, formatting, concatenating, and converting
 Compressor uses Qt6 libraries.
 
 ## Installation on Windows 10 / 11
-– Open the Compressor folder
-
-– Run compressor.exe
+- Open the Compressor folder
+- Run compressor.exe
 
 ## Installation on Linux
 
