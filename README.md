@@ -1,5 +1,6 @@
 # Compressor
 
+![compressor](https://github.com/user-attachments/assets/9192e3ae-4433-4a3c-804e-a004172e78c4)
 
 A multifunctional tool for **minification, formatting, merging, and conversion of web resources** (HTML, CSS, JS, SASS).
 
