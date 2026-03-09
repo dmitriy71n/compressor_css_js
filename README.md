@@ -11,7 +11,7 @@ A multi-functional tool for minifying, formatting, concatenating, and converting
 - Concatenate multiple CSS files alphabetically into one.
 - Multilingual interface (Russian, English).
 
-Compressor uses Qt6 libraries.
+The compressor uses Qt6 libraries. It is based on the dart-sass library. Upgrading the dart-sass library is done by replacing the dart-sass folder.
 
 ## Installation on Windows 10 / 11
 - Open the Compressor folder
