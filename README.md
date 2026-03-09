@@ -21,21 +21,36 @@ Compressor uses Qt6 libraries.
 ## Installation on Linux
 
 Debian / Ubuntu / Mint
+
 – sudo apt install libqt6widgets6
+
 Arch Linux
+
 – sudo pacman -S qt6-base
+
 Fedora
+
 – sudo dnf install qt6-qtbase
 
+
 unzip compressor_2.0_linux.zip
+
 cp compressor/compressor.desktop ~/.local/share/applications/
+
 sudo cp -r compressor/ /opt
+
 sudo chown -R root:root /opt/compressor
+
 sudo chmod -R 755 /opt/compressor
+
 /opt/compressor/bin/./compressor
+
 If the Compressor shortcut does not appear in the menu, restart your graphical shell session.
+
 Run /opt/compressor/bin/./compressor.
+
 If you encounter the error:
+
 error while loading shared libraries: libQt6Widgets.so.6: cannot open shared object file: No such file or directory
 Check if the libraries libqt6widgets6 or qt6-base are installed.
 
