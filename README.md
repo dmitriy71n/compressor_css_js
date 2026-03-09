@@ -1,4 +1,4 @@
-#Compressor
+# Compressor
 
 
 A multifunctional tool for **minification, formatting, merging, and conversion of web resources** (HTML, CSS, JS, SASS).
